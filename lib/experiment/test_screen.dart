@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../components/blank_screen.dart';
+import 'blank_screen.dart';
 
 /// TestScreen now just opens the BlankScreen directly.
 class TestScreen extends StatelessWidget {
